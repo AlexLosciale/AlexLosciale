@@ -1,4 +1,4 @@
-<h2 align="left">​"Hi there! I'm Alessandro, a dedicated Junior Web Developer with a knack for creating seamless web applications."</h2>
+<h2 align="left">​"Hi there! I'm Alessandro, a dedicated Web Developer with a knack for creating seamless applications."</h2>
 
 ###
 
